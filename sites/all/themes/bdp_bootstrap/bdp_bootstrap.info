@@ -19,6 +19,28 @@ regions[footer]         = 'Footer'
 
 stylesheets[all][] = css/style.css
 
+; Styling for Custom Fonts
+stylesheets[all][] = css/font.css
+
+; Styling for markup in page.tpl.php and sitewide styling
+stylesheets[all][] = css/page.css
+
+; Styling for main header region(#head-wrapper)
+stylesheets[all][] = css/header.css
+
+; Styling for content types
+stylesheets[all][] = css/node.css
+
+; Styling for main footer region
+stylesheets[all][] = css/footer.css
+
+; Styling for forms
+stylesheets[all][] = css/form.css
+
+; Styling for misc. other things
+stylesheets[all][] = css/block.css
+stylesheets[all][] = css/views.css
+
 
 ; For information on choosing the desired method, please read the Drupal
 ; Bootstrap sub-theme "how-to" documentation:
