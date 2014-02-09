@@ -1,0 +1,18 @@
+
+/* PAGE
+-------------------------------------------------- */
+
+body {
+  background-color: #AA9B85;
+  background-image: url(../images/footprint.png);
+  background-repeat: no-repeat;
+  background-position: top center;
+}
+
+.navbar {
+  background-color: #AA9B85;
+}
+
+.region-content {
+    background-color: #AA9B85;
+}
