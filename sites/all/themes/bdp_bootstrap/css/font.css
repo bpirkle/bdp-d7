@@ -42,4 +42,54 @@ h2,h3,h4,h5 {
     font-size: 22px;
 }
 
+/* normal links */
+a, a:visited {
+    color: #005500;
+}
 
+a:hover, a:focus {
+    color: #008800;
+    text-decoration: none;
+}
+
+/* site title */
+.site-title {
+    padding-top: 40px;
+    font-size: 50px;
+}
+
+/* active navbar links */
+.navbar-default .navbar-nav > .active > a,
+.navbar-default .navbar-nav > .active > a:visited {
+    color: #005500;
+
+}
+
+.navbar-default .navbar-nav > .active > a:hover,
+.navbar-default .navbar-nav > .active > a:focus {
+    color: #008800;
+}
+
+/* normal navbar links */
+.navbar-default .navbar-nav > li > a,
+.navbar-default .navbar-nav > li > a:visited {
+    color: #005500;
+}
+
+.navbar-default .navbar-nav > li > a:hover,
+.navbar-default .navbar-nav > li > a:focus {
+    color: #008800;
+}
+
+/* override selection color.  This won't work in all browsers, but won't hurt either. */
+::selection {
+  background: #005500;
+  color: #FFFFFF;
+  text-shadow: none;
+}
+
+::-moz-selection {
+  background: #005500;
+  color: #FFFFFF;
+  text-shadow: none;
+}
