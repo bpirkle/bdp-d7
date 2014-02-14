@@ -1,3 +1,17 @@
 
 /* VIEWS
 -------------------------------------------------- */
+
+.view-home-page-slideshow {
+    text-align: center;
+}
+
+.view-home-page-slideshow > .view-content {
+    display: inline-block;
+    max-width: 480px;
+    max-height: 320px;
+}
+
+.flexslider-views-slideshow-main-frame h2 {
+    display: none;
+}

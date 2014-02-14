@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="784bec13-c1f0-460c-a025-46f268faae96" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/themes/bdp_bootstrap/images/Thumbs.db" afterPath="$PROJECT_DIR$/sites/all/themes/bdp_bootstrap/images/Thumbs.db" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/themes/bdp_bootstrap/bdp_bootstrap.info" afterPath="$PROJECT_DIR$/sites/all/themes/bdp_bootstrap/bdp_bootstrap.info" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/themes/bdp_bootstrap/css/font.css" afterPath="$PROJECT_DIR$/sites/all/themes/bdp_bootstrap/css/font.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/themes/bdp_bootstrap/css/views.css" afterPath="$PROJECT_DIR$/sites/all/themes/bdp_bootstrap/css/views.css" />
     </list>
     <ignored path="bdp-d7.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -27,64 +26,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="bdp_bootstrap.info" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/sites/all/themes/bdp_bootstrap/bdp_bootstrap.info">
+      <file leaf-file-name="views.css" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/sites/all/themes/bdp_bootstrap/css/views.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="13" column="0" selection-start="233" selection-end="233" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="page.tpl.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/sites/all/themes/bdp_bootstrap/templates/page.tpl.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="80" column="0" selection-start="3411" selection-end="3411" vertical-scroll-proportion="-5.230769">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="page.css" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/sites/all/themes/bdp_bootstrap/css/page.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="17" column="0" selection-start="311" selection-end="311" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="footer.tpl.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/sites/all/themes/bdp_bootstrap/templates/footer.tpl.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="3" column="0" selection-start="101" selection-end="101" vertical-scroll-proportion="-1.9615384">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="content.tpl.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/sites/all/themes/bdp_bootstrap/templates/content.tpl.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="30" column="0" selection-start="821" selection-end="821" vertical-scroll-proportion="-19.615385">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="header.tpl.php" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/sites/all/themes/bdp_bootstrap/templates/header.tpl.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="99" column="0" selection-start="4146" selection-end="4146" vertical-scroll-proportion="0.15082383">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="font.css" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/sites/all/themes/bdp_bootstrap/css/font.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="56" column="4" selection-start="827" selection-end="827" vertical-scroll-proportion="0.0">
+            <state line="15" column="18" selection-start="301" selection-end="301" vertical-scroll-proportion="0.31288344">
               <folding />
             </state>
           </provider>
@@ -109,7 +54,6 @@
         <option value="$PROJECT_DIR$/sites/all/themes/bdp_bootstrap/css/header.css" />
         <option value="$PROJECT_DIR$/sites/all/themes/bdp_bootstrap/css/ie8.css" />
         <option value="$PROJECT_DIR$/sites/all/themes/bdp_bootstrap/css/node.css" />
-        <option value="$PROJECT_DIR$/sites/all/themes/bdp_bootstrap/css/views.css" />
         <option value="$PROJECT_DIR$/sites/all/themes/bdp_bootstrap/css/page.css" />
         <option value="$PROJECT_DIR$/sites/all/themes/bdp_bootstrap/bdp_bootstrap.info" />
         <option value="$PROJECT_DIR$/sites/all/themes/bdp_bootstrap/templates/page.tpl.php" />
@@ -117,6 +61,7 @@
         <option value="$PROJECT_DIR$/sites/all/themes/bdp_bootstrap/templates/footer.tpl.php" />
         <option value="$PROJECT_DIR$/sites/all/themes/bdp_bootstrap/css/font.css" />
         <option value="$PROJECT_DIR$/sites/all/themes/bdp_bootstrap/templates/header.tpl.php" />
+        <option value="$PROJECT_DIR$/sites/all/themes/bdp_bootstrap/css/views.css" />
       </list>
     </option>
   </component>
@@ -126,6 +71,17 @@
     <option name="y" value="10" />
     <option name="width" value="1726" />
     <option name="height" value="1009" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+        </expanded-state>
+      </profile-state>
+    </entry>
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -326,7 +282,11 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="options.splitter.main.proportions" value="0.3" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="options.lastSelected" value="Errors" />
+    <property name="options.searchVisible" value="true" />
+    <property name="options.splitter.details.proportions" value="0.2" />
   </component>
   <component name="RunManager">
     <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
@@ -338,6 +298,24 @@
     <list size="0" />
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration" maxAnnotateRevisions="500" myUseAcceleration="nothing" myAutoUpdateAfterCommit="false" cleanupOnStartRun="false">
+    <option name="USER" value="" />
+    <option name="PASSWORD" value="" />
+    <option name="mySSHConnectionTimeout" value="30000" />
+    <option name="mySSHReadTimeout" value="30000" />
+    <option name="LAST_MERGED_REVISION" />
+    <option name="MERGE_DRY_RUN" value="false" />
+    <option name="MERGE_DIFF_USE_ANCESTRY" value="true" />
+    <option name="UPDATE_LOCK_ON_DEMAND" value="false" />
+    <option name="IGNORE_SPACES_IN_MERGE" value="false" />
+    <option name="DETECT_NESTED_COPIES" value="true" />
+    <option name="CHECK_NESTED_FOR_QUICK_MERGE" value="false" />
+    <option name="IGNORE_SPACES_IN_ANNOTATE" value="true" />
+    <option name="SHOW_MERGE_SOURCES_IN_ANNOTATE" value="true" />
+    <option name="FORCE_UPDATE" value="false" />
+    <option name="IGNORE_EXTERNALS" value="false" />
+    <myIsUseDefaultProxy>false</myIsUseDefaultProxy>
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="784bec13-c1f0-460c-a025-46f268faae96" name="Default" comment="" />
@@ -353,9 +331,8 @@
       <window_info id="Data Sources" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32897863" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2572289" sideWeight="0.6710214" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.26445782" sideWeight="0.6710214" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -364,6 +341,7 @@
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32897863" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -424,29 +402,9 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/sites/all/themes/bdp_bootstrap/css/header.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="0" selection-start="67" selection-end="67" vertical-scroll-proportion="0.15799257" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sites/all/themes/bdp_bootstrap/css/form.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="0" selection-start="65" selection-end="65" vertical-scroll-proportion="0.12639405" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sites/all/themes/bdp_bootstrap/css/node.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="0" selection-start="0" selection-end="63" vertical-scroll-proportion="0.09479554" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/sites/all/themes/bdp_bootstrap/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sites/all/themes/bdp_bootstrap/css/views.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="8" selection-start="9" selection-end="9" vertical-scroll-proportion="0.031598512" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/sites/all/themes/bdp_bootstrap/logo.png">
@@ -469,49 +427,63 @@
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/sites/all/themes/bdp_bootstrap/css/page.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="0" selection-start="311" selection-end="311" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sites/all/themes/bdp_bootstrap/templates/page.tpl.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="80" column="0" selection-start="3411" selection-end="3411" vertical-scroll-proportion="-5.230769">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sites/all/themes/bdp_bootstrap/templates/footer.tpl.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="0" selection-start="101" selection-end="101" vertical-scroll-proportion="-1.9615384">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sites/all/themes/bdp_bootstrap/templates/content.tpl.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="30" column="0" selection-start="821" selection-end="821" vertical-scroll-proportion="-19.615385">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sites/all/themes/bdp_bootstrap/bdp_bootstrap.info">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="0" selection-start="233" selection-end="233" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/sites/all/themes/bdp_bootstrap/css/font.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="56" column="4" selection-start="827" selection-end="827" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="56" column="4" selection-start="827" selection-end="827" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/sites/all/themes/bdp_bootstrap/templates/header.tpl.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="99" column="0" selection-start="4146" selection-end="4146" vertical-scroll-proportion="0.15082383">
+        <state line="99" column="0" selection-start="4146" selection-end="4146" vertical-scroll-proportion="0.021546261" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/all/themes/bdp_bootstrap/templates/content.tpl.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="30" column="0" selection-start="821" selection-end="821" vertical-scroll-proportion="0.6463878" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/all/themes/bdp_bootstrap/templates/footer.tpl.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="0" selection-start="101" selection-end="101" vertical-scroll-proportion="0.065721646" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/all/themes/bdp_bootstrap/css/page.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="0" selection-start="311" selection-end="311" vertical-scroll-proportion="0.35460123" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/all/themes/bdp_bootstrap/templates/page.tpl.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="80" column="0" selection-start="3411" selection-end="3411" vertical-scroll-proportion="0.17237009" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/all/themes/bdp_bootstrap/bdp_bootstrap.info">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="0" selection-start="233" selection-end="233" vertical-scroll-proportion="0.020858895" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/all/libraries/flexslider/README.mdown">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="0" selection-start="99" selection-end="99" vertical-scroll-proportion="0.08478803" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/all/modules/contrib/flexslider/flexslider.module">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="24" column="20" selection-start="754" selection-end="754" vertical-scroll-proportion="0.021907216">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/all/libraries/flexslider/jquery.flexslider.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="18" column="0" selection-start="593" selection-end="593" vertical-scroll-proportion="0.021197008">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/all/themes/bdp_bootstrap/css/views.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="18" selection-start="301" selection-end="301" vertical-scroll-proportion="0.31288344">
           <folding />
         </state>
       </provider>
