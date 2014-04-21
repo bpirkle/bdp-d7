@@ -15,4 +15,9 @@ body {
 
 .region-content {
     background-color: #AA9B85;
+    padding: 10px;
+}
+
+.front .region-content {
+    background-color: transparent;
 }
